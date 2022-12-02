@@ -1,0 +1,9 @@
+apiVersion: v2
+name: redis-ha
+description: This helm chart provides a Redis High Availability Configuration (HA) with primary/secondary failover configuration.
+type: application
+version: 1.0.0
+appVersion: '7.0.4'
+maintainers:
+  - email: hello@squaredev.io
+    name: squaredev-io
